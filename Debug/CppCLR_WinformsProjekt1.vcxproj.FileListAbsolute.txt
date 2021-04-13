@@ -1,0 +1,5 @@
+D:\с++4\prokopenkov\game 1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\с++4\prokopenkov\game 1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\с++4\prokopenkov\game 1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+D:\с++4\prokopenkov\game 1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.exe
+D:\с++4\prokopenkov\game 1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.pdb
